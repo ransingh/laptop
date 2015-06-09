@@ -147,6 +147,9 @@ brew_install_or_upgrade 'qt'
 brew_install_or_upgrade 'hub'
 brew_install_or_upgrade 'node'
 
+brew_install_or_upgrade 'pv'
+brew_install_or_upgrade 'tree'
+
 brew_install_or_upgrade 'rbenv'
 brew_install_or_upgrade 'ruby-build'
 
